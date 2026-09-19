@@ -7,5 +7,18 @@ nav_order: 2
 
 Here are the available reports:
 
-- ["River Phosphate Aspects of Poultry
-Farming in Powys – a Case Study"](reports/R-2101.pdf)
+---
+
+## R‑2101 — Quarterly Report
+
+Date:  
+: 2024‑09‑01
+
+Author:  
+: Jane Smith
+
+Tags:  
+: finance, quarterly
+
+PDF:  
+: [Download](reports/R-2101.pdf)
