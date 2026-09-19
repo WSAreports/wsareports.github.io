@@ -14,7 +14,7 @@ Here are the available reports:
   <tr>
     <td><strong>Date:</strong> 2021‑03</td>
     <td><strong>Author:</strong> Green, G.R.</td>
-    <td><strong>Tags:</strong> phosphorus</td>
+    <td><strong>Tags:</strong> phosphorus, poultry</td>
     <td><a href="reports/R-2101.pdf" class="btn btn-primary">Download</a></td>
   </tr>
 </table>
