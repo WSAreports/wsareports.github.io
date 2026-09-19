@@ -7,4 +7,5 @@ nav_order: 2
 
 Here are the available reports:
 
-- ["report title"](reports/R-2101.pdf)
+- ["River Phosphate Aspects of Poultry
+Farming in Powys – a Case Study"](reports/R-2101.pdf)
