@@ -11,10 +11,10 @@ Here are the available reports:
 
 ## R‑2101 — Quarterly Report
 
-Date:  
+Date  
 : 2024‑09‑01
 
-Author:  
+Author  
 : Jane Smith
 
 Tags:  
