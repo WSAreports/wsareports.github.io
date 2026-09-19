@@ -19,8 +19,6 @@ Here are the available reports:
   </tr>
 </table>
 
-<br>
-
 <table>
   <tr>
     <td colspan="4"><strong>R‑2102 — River Phosphate Aspects of Poultry Farming in Powys – Part 2</strong></td>
@@ -32,8 +30,6 @@ Here are the available reports:
     <td><a href="reports/R-2102.pdf" class="btn btn-primary">Download</a></td>
   </tr>
 </table>
-
-<br>
 
 <table>
   <tr>
@@ -47,8 +43,6 @@ Here are the available reports:
   </tr>
 </table>
 
-<br>
-
 <table>
   <tr>
     <td colspan="4"><strong>R‑2201 — Catchment Overview: River Llynfi</strong></td>
@@ -60,8 +54,6 @@ Here are the available reports:
     <td><a href="reports/R-2201.pdf" class="btn btn-primary">Download</a></td>
   </tr>
 </table>
-
-<br>
 
 <table>
   <tr>
@@ -75,8 +67,6 @@ Here are the available reports:
   </tr>
 </table>
 
-<br>
-
 <table>
   <tr>
     <td colspan="4"><strong>R‑2203 — Soil sampling in the Garren Catchment</strong></td>
@@ -84,7 +74,7 @@ Here are the available reports:
   <tr>
     <td><strong>Date:</strong> 2022‑07</td>
     <td><strong>Author:</strong> Green, G.R.</td>
-    <td><strong>Tags:</strong> Garren</td>
+    <td><strong>Tags:</strong> Garren, phosphorus</td>
     <td><a href="reports/R-2203.pdf" class="btn btn-primary">Download</a></td>
   </tr>
 </table>
