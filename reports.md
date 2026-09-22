@@ -423,5 +423,29 @@ Here are the available reports:
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td colspan="5"><strong>Turbidity and algal blooms</strong></td>
+  </tr>
+  <tr>
+    <td><strong>ID:</strong> R-2610</td>
+    <td><strong>Date:</strong> 2026‑07</td>
+    <td><strong>Author:</strong> Green, G.R.</td>
+    <td><strong>Tags:</strong>metrology, water quality</td>
+    <td><a href="reports/R-2610.pdf" class="btn btn-primary">Download</a></td>
+  </tr>
+</table>
 
+<table>
+  <tr>
+    <td colspan="5"><strong>Pontrilas 2026</strong></td>
+  </tr>
+  <tr>
+    <td><strong>ID:</strong> R-2612</td>
+    <td><strong>Date:</strong> 2026‑08</td>
+    <td><strong>Author:</strong> Green, G.R.</td>
+    <td><strong>Tags:</strong>Dulas, water quality, sewage</td>
+    <td><a href="reports/R-2612.pdf" class="btn btn-primary">Download</a></td>
+  </tr>
+</table>
 <br>
