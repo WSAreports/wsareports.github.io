@@ -319,4 +319,109 @@ Here are the available reports:
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td colspan="5"><strong>An analysis of historical electrofishing surveys from the Wye catchment</strong></td>
+  </tr>
+  <tr>
+    <td><strong>ID:</strong> R-2601</td>
+    <td><strong>Date:</strong> 2026‑01</td>
+    <td><strong>Author:</strong> Green, G.R.</td>
+    <td><strong>Tags:</strong> Wye, salmon, e-fishing</td>
+    <td><a href="reports/R-2601.pdf" class="btn btn-primary">Download</a></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td colspan="5"><strong>An analysis of sonde data from the Garren at Packsaddle Bridge</strong></td>
+  </tr>
+  <tr>
+    <td><strong>ID:</strong> R-2602</td>
+    <td><strong>Date:</strong> 2026‑01</td>
+    <td><strong>Author:</strong> Green, G.R.</td>
+    <td><strong>Tags:</strong> Garren, sonde, water quality</td>
+    <td><a href="reports/R-2602.pdf" class="btn btn-primary">Download</a></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td colspan="5"><strong>Worm Brook 2025</strong></td>
+  </tr>
+  <tr>
+    <td><strong>ID:</strong> R-2603</td>
+    <td><strong>Date:</strong> 2026‑02</td>
+    <td><strong>Author:</strong> Green, G.R.</td>
+    <td><strong>Tags:</strong> Worm, water quality</td>
+    <td><a href="reports/R-2603.pdf" class="btn btn-primary">Download</a></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td colspan="5"><strong>Population dynamics</strong></td>
+  </tr>
+  <tr>
+    <td><strong>ID:</strong> R-2604</td>
+    <td><strong>Date:</strong> 2026‑02</td>
+    <td><strong>Author:</strong> Green, G.R.</td>
+    <td><strong>Tags:</strong> Wye, salmon</td>
+    <td><a href="reports/R-2604.pdf" class="btn btn-primary">Download</a></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td colspan="5"><strong>WaterWorks TON test strip accuracy</strong></td>
+  </tr>
+  <tr>
+    <td><strong>ID:</strong> R-2605</td>
+    <td><strong>Date:</strong> 2026‑02</td>
+    <td><strong>Author:</strong> Green, G.R.</td>
+    <td><strong>Tags:</strong>metrology, water quality</td>
+    <td><a href="reports/R-2605.pdf" class="btn btn-primary">Download</a></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td colspan="5"><strong>Hanna marine nitrate HR checker accuracy</strong></td>
+  </tr>
+  <tr>
+    <td><strong>ID:</strong> R-2606</td>
+    <td><strong>Date:</strong> 2026‑03</td>
+    <td><strong>Author:</strong> Green, G.R.</td>
+    <td><strong>Tags:</strong>metrology, water quality</td>
+    <td><a href="reports/R-2606.pdf" class="btn btn-primary">Download</a></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td colspan="5"><strong>Trothy 23-25</strong></td>
+  </tr>
+  <tr>
+    <td><strong>ID:</strong> R-2607</td>
+    <td><strong>Date:</strong> 2026‑04</td>
+    <td><strong>Author:</strong> Green, G.R.</td>
+    <td><strong>Tags:</strong>Trothy, water quality</td>
+    <td><a href="reports/R-2607.pdf" class="btn btn-primary">Download</a></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td colspan="5"><strong>Trothy nutrient trends</strong></td>
+  </tr>
+  <tr>
+    <td><strong>ID:</strong> R-2608</td>
+    <td><strong>Date:</strong> 2026‑04</td>
+    <td><strong>Author:</strong> Green, G.R.</td>
+    <td><strong>Tags:</strong>Trothy, water quality</td>
+    <td><a href="reports/R-2608.pdf" class="btn btn-primary">Download</a></td>
+  </tr>
+</table>
+
+
 <br>
