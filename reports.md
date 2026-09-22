@@ -448,4 +448,18 @@ Here are the available reports:
     <td><a href="reports/R-2612.pdf" class="btn btn-primary">Download</a></td>
   </tr>
 </table>
+
+<table>
+  <tr>
+    <td colspan="5"><strong>Summer water temperatures</strong></td>
+  </tr>
+  <tr>
+    <td><strong>ID:</strong> R-2614</td>
+    <td><strong>Date:</strong> 2026‑09</td>
+    <td><strong>Author:</strong> Green, G.R.</td>
+    <td><strong>Tags:</strong>Wye, Garren, water quality</td>
+    <td><a href="reports/R-2614.pdf" class="btn btn-primary">Download</a></td>
+  </tr>
+</table>
+
 <br>
