@@ -293,4 +293,30 @@ Here are the available reports:
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td colspan="5"><strong>Origins of reduced winter rainfall retention on the Wye catchment above Belmont</strong></td>
+  </tr>
+  <tr>
+    <td><strong>ID:</strong> R-2501</td>
+    <td><strong>Date:</strong> 2025‑04</td>
+    <td><strong>Author:</strong> Green, G.R.</td>
+    <td><strong>Tags:</strong> Wye, hydrology</td>
+    <td><a href="reports/R-2501.pdf" class="btn btn-primary">Download</a></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td colspan="5"><strong>Non-salmon catch returns in the Wye catchment</strong></td>
+  </tr>
+  <tr>
+    <td><strong>ID:</strong> R-2502</td>
+    <td><strong>Date:</strong> 2025‑03</td>
+    <td><strong>Author:</strong> Green, G.R.</td>
+    <td><strong>Tags:</strong> Wye, angling</td>
+    <td><a href="reports/R-2502.pdf" class="btn btn-primary">Download</a></td>
+  </tr>
+</table>
+
 <br>
