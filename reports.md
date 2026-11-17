@@ -462,4 +462,17 @@ Here are the available reports:
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td colspan="5"><strong>Options for E. coli testing</strong></td>
+  </tr>
+  <tr>
+    <td><strong>ID:</strong> R-2615</td>
+    <td><strong>Date:</strong> 2026‑12</td>
+    <td><strong>Author:</strong> Green, G.R.</td>
+    <td><strong>Tags:</strong>Wye, E. coli, water quality</td>
+    <td><a href="reports/R-2615.pdf" class="btn btn-primary">Download</a></td>
+  </tr>
+</table>
+
 <br>
